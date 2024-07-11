@@ -1,5 +1,8 @@
 # td is a CLI to-do list application.
 
+## Installation
+- Figure this out
+
 ## Basic usages:
 - td show to show the every item in the current workspace
 - td add [] to add either a task, list, workspace, or a checklist to a workspace
