@@ -18,7 +18,7 @@ class Fileutils:
 
         # Change this to something else later
         # What separates different elements in an object in td.txt
-        self.SEPARATOR = ","
+        self.SEPARATOR = ",._=+*&(,../){./;'"
 
         self.PATH = PATH
         self.CONFIGPATH = CONFIGPATH
